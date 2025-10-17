@@ -47,6 +47,7 @@ SELECT column1, column2 FROM table_name WHERE condition;
 ```
 **Question 1**
 --
+
 For products with a profit % less than 30% of selling price, update the selling price to provide a profit margin of 35% over cost price of the product in the products table.
 
 PRODUCTS TABLE
